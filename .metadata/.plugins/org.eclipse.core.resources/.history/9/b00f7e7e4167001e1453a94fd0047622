@@ -1,0 +1,47 @@
+package com.acorn.registerPrj;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class R_DAO {
+	@Autowired
+	DataSource ds;
+	Connection con;
+	
+	public R_Member insertOne(R_Member member) {
+		String sql = "insert into test_member_tbl(id,name,pw,phone,email) values(?,?,?,?,?)";
+		
+			
+			try {
+				con = ds.getConnection();
+				PreparedStatement pst = con.prepareStatement(sql);
+				pst.setString(1, member.getId());
+				pst.setString(2, member.getName());
+				pst.setString(3, member.getPw());
+				pst.setString(4, member.getPhone());
+				pst.setString(5, member.getEmail());
+				pst.executeUpdate();
+			} catch (SQLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			return member; 
+	}
+	
+	public void deleteOne(String id) {
+		con = ds.getConnection();
+		String sql = "delete from test_member_tbl where id=?";
+		PreparedStatement pst = null ;
+		
+		
+	}
+
+}

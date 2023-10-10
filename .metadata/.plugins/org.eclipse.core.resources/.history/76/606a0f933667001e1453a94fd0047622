@@ -1,0 +1,39 @@
+package com.acorn.registerPrj;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class R_DAO {
+	@Autowired
+	DataSource ds;
+	
+	public R_Member insertOne(R_Member member) {
+		String sql = "insert into member_tbl values(?,?,?,?,?)";
+
+			Connection con;
+			try {
+				con = ds.getConnection();
+				PreparedStatement pst = con.prepareStatement(sql);
+				pst.setString(1, );
+			} catch (SQLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			return null; 
+			
+
+			
+			
+		
+	
+	} 
+
+}

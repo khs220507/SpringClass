@@ -1,0 +1,9 @@
+package com.acorn.day1.di;
+
+public class ProgramTest3 {
+	Calculator calculator = new Ccalculator();
+	Program program = new Program(calculator);
+	
+	
+
+}

@@ -1,0 +1,11 @@
+package com.acorn.registerPrj;
+
+public class R_Member {
+	
+	String name;
+	String id;
+	String pw;
+	String phone;
+	String email;
+
+}

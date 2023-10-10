@@ -1,0 +1,15 @@
+package com.acorn.day1_test.di;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.GenericXmlApplicationContext;
+
+public class ProgramTest {
+	
+	public static void main(String[] args) {
+		
+		ApplicationContext ac = new GenericXmlApplicationContext("com/acorn/day1_practice/setting.xml");
+		Program program = ac.getBean(Program.class)
+		
+	}
+
+}

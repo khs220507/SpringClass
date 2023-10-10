@@ -1,0 +1,16 @@
+package com.acorn.day1_test.di;
+
+public class Program {
+	
+	@Autowired
+	Calculator calculator;
+	public Program() {
+	}
+	
+	// 생성자 주입 constructor injection
+	public Program(Calculator calculator) {
+		super();
+		this.calculator = calculator;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.acorn.day1_test.di;
+
+public class Program {
+	
+	@Autowired
+	Calculator calculator;
+	public Program() {
+	}
+
+}

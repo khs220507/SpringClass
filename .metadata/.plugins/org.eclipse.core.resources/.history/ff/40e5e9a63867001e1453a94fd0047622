@@ -1,0 +1,20 @@
+package com.acorn.registerPrj;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class R_Service {
+	
+	@Autowired
+	R_DAO dao;
+	
+	public R_Member setInfo() {
+		dao.insertOne(R_Member member);
+		
+		
+	}
+	
+	
+
+}

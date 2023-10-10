@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="day1_practice"/>
+<aop-project name="registerPrj"/>
+<aop-project name="helloPrj"/>
+<aop-project name="day1"/>
+<aop-project name="day2"/>
+</aop-reference-model>

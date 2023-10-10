@@ -1,0 +1,17 @@
+package com.acorn.registerPrj;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class R_Controller {
+	
+	@RequestMapping("/register")
+	public void registerOne() {		
+		
+	}
+	
+	
+	
+	
+}

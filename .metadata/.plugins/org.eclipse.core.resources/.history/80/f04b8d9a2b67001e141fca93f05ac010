@@ -1,0 +1,8 @@
+package com.acorn.day1_test.di;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class pController {
+
+}

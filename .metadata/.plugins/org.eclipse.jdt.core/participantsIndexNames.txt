@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2776612295.index
+\day2\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1937528655.index
+\day1\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4142261827.index
+\day1\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3585995356.index
+\day2\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1616145980.index
+\day2\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1637651557.index
+\day2\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\192832161.index
+\day1\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2680465935.index
+\day1_practice\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2829080397.index
+\registerPrj\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2725621969.index
+\day1\src\main\java
+C:\Users\khs22\Desktop\workspace\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\843690767.index
+\helloPrj\src\main\java

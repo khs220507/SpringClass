@@ -1,0 +1,8 @@
+package com.acorn.registerPrj;
+
+public class R_Member {
+	
+	String name;
+	
+
+}
