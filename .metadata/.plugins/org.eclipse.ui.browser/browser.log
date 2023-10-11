@@ -13,3 +13,19 @@
 10월 10, 2023 15:56:54.568 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 10월 10, 2023 17:11:57.448 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 10월 10, 2023 17:17:15.840 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+10월 11, 2023 09:16:03.683 NEW SESSION
+10월 11, 2023 09:16:03.683 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 09:41:10.951 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 11:08:39.497 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 11:58:14.694 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 12:31:34.615 [6880:27216:1011/123134.615:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+10월 11, 2023 12:38:58.222 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 14:14:53.126 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 14:15:24.705 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 14:15:55.704 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 14:17:28.812 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 11, 2023 14:19:53.725 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+10월 11, 2023 14:50:12.532 NEW SESSION
+10월 11, 2023 14:50:12.532 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
