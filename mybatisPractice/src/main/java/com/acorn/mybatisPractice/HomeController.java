@@ -1,4 +1,4 @@
-package com.acorn.practiceAPI;
+package com.acorn.mybatisPractice;
 
 import java.text.DateFormat;
 import java.util.Date;
