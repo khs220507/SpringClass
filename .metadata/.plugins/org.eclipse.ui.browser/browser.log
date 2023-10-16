@@ -50,3 +50,25 @@
 10월 13, 2023 12:36:52.601 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 10월 13, 2023 13:09:49.674 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 10월 13, 2023 14:51:33.706 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+10월 16, 2023 10:37:42.794 NEW SESSION
+10월 16, 2023 10:37:42.794 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 10:40:16.101 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 10:41:16.695 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 10:47:33.110 [9076:2732:1016/104733.110:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+10월 16, 2023 10:47:35.142 [9076:2732:1016/104735.142:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+10월 16, 2023 10:47:35.654 [9076:2732:1016/104735.653:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+10월 16, 2023 10:47:42.565 [9076:11088:1016/104742.565:ERROR:device_event_log_impl.cc(225)] [10:47:42.562] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+10월 16, 2023 10:47:42.592 [9076:11088:1016/104742.592:ERROR:device_event_log_impl.cc(225)] [10:47:42.580] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+10월 16, 2023 10:48:29.197 [9076:2732:1016/104829.197:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+10월 16, 2023 11:54:39.615 [9076:11088:1016/115439.613:ERROR:device_event_log_impl.cc(225)] [11:54:39.560] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+10월 16, 2023 11:55:25.93 [9076:2732:1016/115525.093:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+10월 16, 2023 14:37:54.768 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 14:41:39.120 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 15:12:30.894 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 15:12:45.534 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 16:16:48.451 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 16:35:29.421 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 16:35:39.244 [13720:8364:1016/163539.243:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+10월 16, 2023 16:36:49.984 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2023 17:13:53.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
