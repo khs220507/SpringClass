@@ -72,3 +72,8 @@
 10월 16, 2023 16:35:39.244 [13720:8364:1016/163539.243:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
 10월 16, 2023 16:36:49.984 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 10월 16, 2023 17:13:53.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+10월 17, 2023 09:17:18.966 NEW SESSION
+10월 17, 2023 09:17:18.966 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 17, 2023 09:18:22.762 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 17, 2023 09:34:21.693 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
